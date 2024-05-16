@@ -1,4 +1,5 @@
-class Armor {
+//class Armor
+public class Armor {
     private int pertahanan;
 
     public Armor(int pertahanan) {
